@@ -1,0 +1,19 @@
+Test Execution Started..
+Text name from 1st loop : PlaywrightTutorialFullCourse
+Text name from 1st loop : PostmanCollectionsByTestersTalk
+Text name from 1st loop : PlaywrightAPITestingTutorial
+Text name from 1st loop : RestAssuredAPITestingFramework
+Text name from 1st loop : PlaywrightTypeScriptTutorialFullCourse
+Text name from 1st loop : CypressTutorialFullCourse
+Text name from 2nd loop : PlaywrightTutorialFullCourse
+Text name from 2nd loop : PostmanCollectionsByTestersTalk
+Text name from 2nd loop : PlaywrightAPITestingTutorial
+Text name from 2nd loop : RestAssuredAPITestingFramework
+Text name from 2nd loop : PlaywrightTypeScriptTutorialFullCourse
+Text name from 2nd loop : CypressTutorialFullCourse
+Text name from 3rd loop : PlaywrightTutorialFullCourse
+Text name from 3rd loop : PostmanCollectionsByTestersTalk
+Text name from 3rd loop : PlaywrightAPITestingTutorial
+Text name from 3rd loop : RestAssuredAPITestingFramework
+Text name from 3rd loop : PlaywrightTypeScriptTutorialFullCourse
+Text name from 3rd loop : CypressTutorialFullCourse

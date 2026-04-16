@@ -1,0 +1,7 @@
+Test Execution Started..
+Text name from 1st loop : ${text}
+Text name from 1st loop : ${text}
+Text name from 1st loop : ${text}
+Text name from 1st loop : ${text}
+Text name from 1st loop : ${text}
+Text name from 1st loop : ${text}
