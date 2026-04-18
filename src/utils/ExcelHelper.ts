@@ -8,7 +8,7 @@ interface TestRecord{
     Skill2 : string
 }
 
-//create method to read excel file
+//create method to Read excel file
 export function readExcelFile(filepath:string){
     //Read excel file as a binary string
     const file=fs.readFileSync(filepath);
