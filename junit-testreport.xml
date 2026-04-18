@@ -1,16 +1,25 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="5.673950999999999">
-<testsuite name="chapter5\08_RunTestBasedOnEnv.spec.ts" timestamp="2026-04-16T10:10:38.359Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="2.93" errors="0">
-<testcase name="Implement Fixture Playwright" classname="chapter5\08_RunTestBasedOnEnv.spec.ts" time="2.93">
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="95.46419600000002">
+<testsuite name="chapter1\02_First_Test.spec.ts" timestamp="2026-04-17T04:09:00.143Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="8.296" errors="0">
+<testcase name="My First Playwright Typrescript Test" classname="chapter1\02_First_Test.spec.ts" time="8.296">
 <system-out>
-<![CDATA[Global before is running...
-Test Execution Startedd...
-Tests are running in dev env.
-Skill1 : API Testing by Testers Talk
-Skill2 : Rest Assured by Testers Talk
-Skill3 : Postman by Testers Talk
-Global afterEach is running...
+<![CDATA[Test Execution Started..
 
-[[ATTACHMENT|test-results\chapter5-08_RunTestBasedOnEnv-Implement-Fixture-Playwright-Google-Chrome\test-finished-1.png]]
+[[ATTACHMENT|test-results\chapter1-02_First_Test-My-First-Playwright-Typrescript-Test-Google-Chrome\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\chapter1-02_First_Test-My-First-Playwright-Typrescript-Test-Google-Chrome\video.webm]]
+
+[[ATTACHMENT|test-results\chapter1-02_First_Test-My-First-Playwright-Typrescript-Test-Google-Chrome\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="chapter1\04_Codegen.spec.ts" timestamp="2026-04-17T04:09:00.143Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="42.42" errors="0">
+<testcase name="Codegen test" classname="chapter1\04_Codegen.spec.ts" time="42.42">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\chapter1-04_Codegen-Codegen-test-Google-Chrome\video.webm]]
+
+[[ATTACHMENT|test-results\chapter1-04_Codegen-Codegen-test-Google-Chrome\trace.zip]]
 ]]>
 </system-out>
 </testcase>
